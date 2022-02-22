@@ -1,0 +1,8 @@
+
+
+1. Bikin project / tabel di Supabase
+   1.1 upload foto produk
+   1.2 isi data di tabel produk
+2. Buat project dengan vue-cli (seblakweb)
+3. Hubungkan project/app dengan Supabase
+4. Fetch data dari Supabase ke App/project

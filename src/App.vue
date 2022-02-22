@@ -37,4 +37,8 @@ export default {
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+nav.nav .nav-link {
+  font-size: 4vh;
+}
 </style>
