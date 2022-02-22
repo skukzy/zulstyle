@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1>Products</h1>
+        <!-- <h1>Products</h1> -->
         <div class="row">
           <div v-if="loading" class="col-md-12">
             <img src="../assets/loading3.gif" width="500px">
